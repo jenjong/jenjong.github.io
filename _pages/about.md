@@ -88,9 +88,3 @@ Funding (2021-Present)
 - Research on Molecular Toxicity Networks, 2021-2025, Ministry of Environment
 
 - Development of Artificial Intelligence Decision Models, 2021, JUIVS
-
-
-
-
-#Example: editing a markdown file for a talk
-#![Editing a markdown file for a talk](/images/editing-talk.png)
