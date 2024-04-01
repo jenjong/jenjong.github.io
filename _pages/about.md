@@ -18,11 +18,31 @@ redirect_from:
 
 Recent Work (2023-Present)
 ======
-- Cho, S., Hong, S., and Jeon, J. J. (2024), Adaptive Adversarial Augmentation for Molecular Property Prediction (submitted)
+- Cho, S., Hong, S., and Jeon, J. J. (2024), *Adaptive Adversarial Augmentation for Molecular Property Prediction* (submitted)
+
+- An, S., Hong, S., Jeon J. J. (2024), *Distributional Learning for Synthetic Tabular Data via Cramer-Wold Device*, (submitted)
+
+- Hong, S., Jeon J. J. (2024), *Uniform Pessimistic Risk and Optimal Portfolio, (submitted)  [(Link)](https://arxiv.org/abs/2303.07158)
+
+- Hong S., An, S. and Jeon J. J. (2024), *Improving SMOTE via Fusing Conditional VAE  
+      for Noise Adaptive Sampling*, (submitted)
+  
+- Hong, S., Choi Y. , Jeon J. J. (2023), *Interpretable Transformer for Water Level Forecasting*, (under revision) [(Link)](https://arxiv.org/abs/2303.00515)
+
+- An, S., Song.K,, Jeon J. J. (2023),  *Causally Disentangled Generative Variational AutoEncoder*, ECAI 2023, [(Link)](https://ebooks.iospress.nl/volumearticle/64190)
+  
+- An, S. and Jeon J. J.  (2023), *Distributional Variational AutoEncoder To Infinite Quantiles and Beyond Gaussianity*, NeuRIPS 2023, [(Link)](https://openreview.net/forum?id=GxL6PrmEUw)
+  
+- Oh C., So J., Byun H., Lim Y., Shin M., Jeon J., Song.K (2023), *Geodesic Multi-Modal Mixup for Robust Fine-Tuning*, NeuRIPS 2023.
+  
+- An, S. and Jeon  (2023), *Customization of Latent Space in Semi-Supervised Variational Autoencoder*, Pattern Recognition Letters, 
+       <a href = "https://www.sciencedirect.com/science/article/pii/S0167865523003288"> (Link) </a> 
+
+- Kim D., Cho. S. Jeon J. J. and Choi J. (2023),  *Screening inhalation toxicity of environmental chemicals using OECD test guideline 403, 412 and 413 data-based machine learning classification models*  (submitted)
 
 
 
-Recent Work (2023-Present)
+On-going Work
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
