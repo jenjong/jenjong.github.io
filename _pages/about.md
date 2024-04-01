@@ -66,20 +66,30 @@ On-going Work
 
 
 
-Funding
+Funding (2021-Present)
 ======
-          <ul>
-          <li> Credit analysis with AI, 2024, KB </li> 
-            <li> Personalized Research on Large Language Models, 2023, University of Seoul </li> 
-            <li> Development of Robo-Advisor Algorithms, 2023, Gwanak Research Institute </li>            
-            <li> Basic Research Lab, 2022-2024, Ministry of Science and ICT </li>
-            <li> DS+ Project Team, 2022-2025, Ministry of Science and ICT </li>
-            <li> Digital Innovation Talent Development Project (Big Data), 2021-2023, Ministry of Education </li>
-            <li> Basic Researcher Support Project, 2022-2024, Ministry of Science and ICT </li>
-            <li> Development of Single Household Estimation Models, 2021-2023, Seoul-UOS-SKT-KCB-Shinhan Card Consortium </li>
-            <li> Research on Molecular Toxicity Networks, 2021-2025, Ministry of Environment </li>            
-            <li> Development of Artificial Intelligence Decision Models, 2021 </li>                        
-          </ul>
+
+- Credit analysis with AI, 2024, KB  
+
+- Personalized Research on Large Language Models, 2023, University of Seoul  
+
+- Development of Robo-Advisor Algorithms, 2023, Gwanak Research Institute
+
+- Basic Research Lab, 2022-2024, Ministry of Science and ICT
+
+- DS+ Project Team, 2022-2025, Ministry of Science and ICT
+
+- Digital Innovation Talent Development Project (Big Data), 2021-2023, Ministry of Education
+
+- Basic Researcher Support Project, 2022-2024, Ministry of Science and ICT
+
+- Development of Single Household Estimation Models, 2021-2023, Seoul-UOS-SKT-KCB-Shinhan Card Consortium
+
+- Research on Molecular Toxicity Networks, 2021-2025, Ministry of Environment
+
+- Development of Artificial Intelligence Decision Models, 2021, JUIVS
+
+
 
 
 #Example: editing a markdown file for a talk
