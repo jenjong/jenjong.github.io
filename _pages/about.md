@@ -67,7 +67,7 @@ On-going Work
 
 
 Funding
-------
+======
           <ul>
           <li> Credit analysis with AI, 2024, KB </li> 
             <li> Personalized Research on Large Language Models, 2023, University of Seoul </li> 
