@@ -18,51 +18,8 @@ redirect_from:
 
 Recent Work (2023-Present)
 ======
-  <li> Cho, S., Hong, S., and Jeon, J. J. (2024), 
-    <i> <span style="font-family:Times New Roman">  
-    Adaptive Adversarial Augmentation for Molecular Property Prediction 
-    </i> </span> (submitted)
-  </li>  
+- Cho, S., Hong, S., and Jeon, J. J. (2024), Adaptive Adversarial Augmentation for Molecular Property Prediction (submitted)
 
-  <li> An, S., Hong, S., Jeon J. J. (2024), 
-    <span style="font-family:Times New Roman">  
-      <i>"Distributional Learning for Synthetic Tabular Data via Cramer-Wold Device",   </i> </span> (submitted)  </li>                        
-  </li>
-  <li> Hong, S., Jeon J. J. (2024), 
-    <span style="font-family:Times New Roman">  
-      <i>"Uniform Pessimistic Risk and Optimal Portfolio",   </i> </span> (submitted)  
-      <a href ="https://arxiv.org/abs/2303.07158"> (Link) </a> </li>                        
-  </li>
-  <li> Hong S., An, S. and Jeon J. J. (2024), <span style="font-family:Times New Roman"> 
-    <i> "Improving SMOTE via Fusing Conditional VAE  
-      for Noise Adaptive Sampling",  </i></span> (submitted)
-  </li>
-  <li> Hong, S., Choi Y. , Jeon J. J. (2023), <span style="font-family:Times New Roman"> 
-    <i> "Interpretable Transformer for Water Level Forecasting" </i></span>,  (under revision) 
-      <a href ="https://arxiv.org/abs/2303.00515"> (Link) </a>
-  </li>
-  <li> An, S., Song.K,, Jeon J. J. (2023),  <span style="font-family:Times New Roman"> 
-    <i> Causally Disentangled Generative Variational AutoEncoder", </i> </span> 
-     <font  style="color:#007bff"> ECAI 2023</font> <a href = "https://ebooks.iospress.nl/volumearticle/64190"> (Link)</a>
-  </li>                        
-  <li> An, S. and Jeon J. J.  (2023), <span style="font-family:Times New Roman"> 
-      <i>"Distributional Variational AutoEncoder To Infinite Quantiles and Beyond Gaussianity",  </i></span>
-        <font  style="color:#007bff"> NeuRIPS 2023 </font>
-      <a href = "https://openreview.net/forum?id=GxL6PrmEUw"> (Link) </a>
-  </li>  
-  <li> Oh C., So J., Byun H., Lim Y., Shin M., Jeon J., Song.K (2023), <span style="font-family:Times New Roman"> 
-      <i> Geodesic Multi-Modal Mixup for Robust Fine-Tuning,  </i> </span>
-      <font  style="color:#007bff"> NeuRIPS 2023 </font>  
-  </li>
-  <li> An, S. and Jeon  (2023), <span style="font-family:Times New Roman">  
-    <i> "Customization of Latent Space in Semi-Supervised Variational Autoencoder" </i> </span>,
-       <font  style="color:#007bff"> Pattern Recognition Letters </font> 
-       <a href = "https://www.sciencedirect.com/science/article/pii/S0167865523003288"> (Link) </a> 
-  </li>                        
-  <li> Kim D., Cho. S. Jeon J. J. and Choi J. (2023), <span style="font-family:Times New Roman"> 
-      <i> "Screening inhalation toxicity of environmental chemicals using OECD test guideline 403, 412 and 413 data-based machine learning classification models",  (submitted) </i></span>
-  </li>
-</ul>
 
 
 Recent Work (2023-Present)
