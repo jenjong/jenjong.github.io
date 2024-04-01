@@ -12,19 +12,60 @@ redirect_from:
   including various applications of neural networks, and studying optimization methodologies for fitting these models.
   Currently, our lab mainly deals with image, network, weather, ranking, and stock market data. 
   We work on tasks such as feature vector extraction, probability structure estimation, and the development of classification and regression models within these data domains.
-  You can explore the research papers produced by our lab through the following <a href="https://scholar.google.co.kr/citations?user=A-E3uEMAAAAJ&hl=ko"> Google Scholar 
-  </a> page.
+  You can explore the research papers produced by our lab through the following <a href="https://scholar.google.co.kr/citations?user=A-E3uEMAAAAJ&hl=ko">Google Scholar</a> page.
 
-  
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+
+Recent Work (2023-Present)
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+  <li> Cho, S., Hong, S., and Jeon, J. J. (2024), 
+    <i> <span style="font-family:Times New Roman">  
+    Adaptive Adversarial Augmentation for Molecular Property Prediction 
+    </i> </span> (submitted)
+  </li>  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+  <li> An, S., Hong, S., Jeon J. J. (2024), 
+    <span style="font-family:Times New Roman">  
+      <i>"Distributional Learning for Synthetic Tabular Data via Cramer-Wold Device",   </i> </span> (submitted)  </li>                        
+  </li>
+  <li> Hong, S., Jeon J. J. (2024), 
+    <span style="font-family:Times New Roman">  
+      <i>"Uniform Pessimistic Risk and Optimal Portfolio",   </i> </span> (submitted)  
+      <a href ="https://arxiv.org/abs/2303.07158"> (Link) </a> </li>                        
+  </li>
+  <li> Hong S., An, S. and Jeon J. J. (2024), <span style="font-family:Times New Roman"> 
+    <i> "Improving SMOTE via Fusing Conditional VAE  
+      for Noise Adaptive Sampling",  </i></span> (submitted)
+  </li>
+  <li> Hong, S., Choi Y. , Jeon J. J. (2023), <span style="font-family:Times New Roman"> 
+    <i> "Interpretable Transformer for Water Level Forecasting" </i></span>,  (under revision) 
+      <a href ="https://arxiv.org/abs/2303.00515"> (Link) </a>
+  </li>
+  <li> An, S., Song.K,, Jeon J. J. (2023),  <span style="font-family:Times New Roman"> 
+    <i> Causally Disentangled Generative Variational AutoEncoder", </i> </span> 
+     <font  style="color:#007bff"> ECAI 2023</font> <a href = "https://ebooks.iospress.nl/volumearticle/64190"> (Link)</a>
+  </li>                        
+  <li> An, S. and Jeon J. J.  (2023), <span style="font-family:Times New Roman"> 
+      <i>"Distributional Variational AutoEncoder To Infinite Quantiles and Beyond Gaussianity",  </i></span>
+        <font  style="color:#007bff"> NeuRIPS 2023 </font>
+      <a href = "https://openreview.net/forum?id=GxL6PrmEUw"> (Link) </a>
+  </li>  
+  <li> Oh C., So J., Byun H., Lim Y., Shin M., Jeon J., Song.K (2023), <span style="font-family:Times New Roman"> 
+      <i> Geodesic Multi-Modal Mixup for Robust Fine-Tuning,  </i> </span>
+      <font  style="color:#007bff"> NeuRIPS 2023 </font>  
+  </li>
+  <li> An, S. and Jeon  (2023), <span style="font-family:Times New Roman">  
+    <i> "Customization of Latent Space in Semi-Supervised Variational Autoencoder" </i> </span>,
+       <font  style="color:#007bff"> Pattern Recognition Letters </font> 
+       <a href = "https://www.sciencedirect.com/science/article/pii/S0167865523003288"> (Link) </a> 
+  </li>                        
+  <li> Kim D., Cho. S. Jeon J. J. and Choi J. (2023), <span style="font-family:Times New Roman"> 
+      <i> "Screening inhalation toxicity of environmental chemicals using OECD test guideline 403, 412 and 413 data-based machine learning classification models",  (submitted) </i></span>
+  </li>
+</ul>
 
-Getting started
+
+Recent Work (2023-Present)
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
