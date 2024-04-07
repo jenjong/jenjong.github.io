@@ -18,18 +18,18 @@ Class Info
 
 Contents
 ======
-+ Preliminary: Linear Algebra and Basic Calculus [(slide 1)](http://jenjong.github.io/files/CH01_LA_1.pdf) (slide 2) (slide 3) (slide 4)
-+ Week 01: Introduction (slide 1)
-+ Week 02: Affine set and Convex Set (slide 1) (slide 2)
-+ Week 03: Convex function (slide 1) (slide 2)
-+ Week 04: Unconstrained Optimization (slide 1) (slide 2)
-+ Week 05: Constrained Optimization (slide 1) (slide 2)
-+ Week 06: Dual problem (slide)
-+ Week 07: Interior point method (slide 1) (slide 2)
++ Preliminary: Linear Algebra and Basic Calculus [(note 1)](http://jenjong.github.io/files/CH01_LA_1.pdf) [(note 2)](http://jenjong.github.io/files/CH01_LA_2.pdf) [(note 3)](http://jenjong.github.io/files/CH01_LA_3.pdf) [(note 4)](http://jenjong.github.io/files/CH01_LA_4.pdf)
++ Week 01: Introduction [(note 1)](http://jenjong.github.io/files/intro.pdf)
++ Week 02: Affine set and Convex Set [(note 1)](http://jenjong.github.io/files/affine.pdf) [(note 2)](http://jenjong.github.io/files/convex set.pdf)
++ Week 03: Convex function [(note 1)](http://jenjong.github.io/files/convex function1.pdf) [(note 2)](http://jenjong.github.io/files/convex function2.pdf)
++ Week 04: Unconstrained Optimization [(note 1)](http://jenjong.github.io/files/unconstrained_1.pdf) [(note 2)](http://jenjong.github.io/files/unconstrained_2.pdf)
++ Week 05: Constrained Optimization [(note 1)](http://jenjong.github.io/files/constrained_1.pdf) [(note 2)](http://jenjong.github.io/files/constrained_2.pdf)
++ Week 06: Dual problem [(note)](http://jenjong.github.io/files/dual.pdf)
++ Week 07: Interior point method [(note 1)](http://jenjong.github.io/files/interior_1.pdf) [(note 2)](http://jenjong.github.io/files/interior_2.pdf)
 + Week 08: Midterm exam
-+ Week 09: EM algorithm (slide)
-+ Week 10: ADMM algorithm (slide 1) (slide 2)
-+ Week 11: MCMC algorithm and Variational Inference (slide)
-+ Week 12: Stochastic optimiaztion algorithm (slide)
++ Week 09: EM algorithm [(note)](http://jenjong.github.io/files/em.pdf)
++ Week 10: ADMM algorithm [(note 1)](http://jenjong.github.io/files/admm_1.pdf) [(note 2)](http://jenjong.github.io/files/admm_2.pdf)
++ Week 11: MCMC algorithm and Variational Inference [(note)](http://jenjong.github.io/files/mcmc.pdf)
++ Week 12: Stochastic optimiaztion algorithm [(note)](http://jenjong.github.io/files/stochastic.pdf)
 + Week 13: Convergence analysis
 + Week 14: Final exam:
